@@ -1,5 +1,6 @@
-# Vibe
-.vibe/
+# Vibe - keep skills in version control, ignore other vibe files
+.vibe/*
+!.vibe/skills/
 
 # Environment
 .env
